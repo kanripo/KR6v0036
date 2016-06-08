@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:16.231072
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:08
 #+TITLE: 金剛般若經疏
 #+PROPERTY: CBETA_ID W03n0029
 #+PROPERTY: ID KR6v0036
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 03, No. 029
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0036_W_001-0259a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 金剛般若經疏¶
 整理者　華方田¶
 ¶
 
@@ -56,10 +56,9 @@
 無校本。¶
 ¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
-
- 金剛般若經疏¶
+金剛般若經疏¶
 ¶
 
 （首殘）¶
